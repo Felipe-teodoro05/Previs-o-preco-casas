@@ -1,7 +1,8 @@
 Feito por: Felipe Teodoro Bandeira
 Data: 15/06/2024
 
-Visão Geral do Projeto
+Visão Geral do Projeto:
+
 O projeto de previsão de preço de casas com Python tem como objetivo criar um modelo preditivo que possa estimar o valor de venda de imóveis residenciais com base em diversas características (features) dos imóveis, como localização, tamanho, número de quartos, idade do imóvel, entre outras. O projeto utilizará um conjunto de dados histórico de preços de imóveis e características associadas, aplicando técnicas de aprendizado de máquina para treinar e validar o modelo.
 
 Ferramentas e Tecnologias
