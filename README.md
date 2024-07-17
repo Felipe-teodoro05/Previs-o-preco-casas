@@ -27,7 +27,7 @@ Pré-processamento de Dados:
 - Dividir os dados em conjuntos de treino e teste.
 
 Desenvolvimento do Modelo:
-- Escolhi o mnodelo de Regressão Linear
+- Escolhi o modelo de Regressão Linear
 - Utlização dos dados de treino para ver qual seria a acurácia do modelo
 - Avaliar os modelos utilizando métricas apropriadas (MAE, RMSE, R²).
   
